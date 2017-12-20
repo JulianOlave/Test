@@ -8,6 +8,10 @@ using Contoso.API.Models;
 
 namespace Contoso.API.Controllers
 {
+
+
+
+    //GENIAL
     [Route("api/[controller]")]
     public class TestController : Controller
     {
